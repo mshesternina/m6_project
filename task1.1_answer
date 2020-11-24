@@ -36,3 +36,8 @@ git push origin feature1 // отправляем изменения в удал�
 
 git checkout master
 git merge feature1
+
+git pull
+git checkout -b feature2
+git branch
+git branch -r
