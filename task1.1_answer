@@ -20,9 +20,6 @@ code fileB
 
 git add -A // дообавляем все содержимое в слежение
 git commit -m "update files" // создаем коммит с изменениями
-<<<<<<< HEAD
-git push origin master // отправляем изменения в удаленный репозиторий
-=======
 git push origin master // отправляем изменения в удаленный репозиторий
 
 code fileB
@@ -44,4 +41,3 @@ git pull
 git checkout -b feature2
 git branch
 git branch -r
->>>>>>> feature2
