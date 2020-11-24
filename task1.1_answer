@@ -1,0 +1,6 @@
+git init // создан локальный репозиторий
+git remote add origin git@github.com:mshesternina/m6_project.git // добавлен апстрим удаленного репозитория
+git status // статус репозитория
+code task1.1 // создан файл
+code ./.gitignore // создан файл с исключениями для git
+code task1.1_answer // создан файл
