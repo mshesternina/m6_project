@@ -14,3 +14,10 @@ code fileB
 git add -A // дообавляем все содержимое в слежение
 git commit -m "add files" // создаем коммит с изменениями
 git push origin master // отправляем изменения в удаленный репозиторий
+
+code fileA
+code fileB
+
+git add -A // дообавляем все содержимое в слежение
+git commit -m "update files" // создаем коммит с изменениями
+git push origin master // отправляем изменения в удаленный репозиторий
