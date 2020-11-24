@@ -4,3 +4,6 @@ git status // статус репозитория
 code task1.1 // создан файл
 code ./.gitignore // создан файл с исключениями для git
 code task1.1_answer // создан файл
+git add -A // дообавляем все содержимое в слежение
+git commit -m "initial commit" // создаем коммит с изменениями
+git push origin master // отправляем изменения в удаленный репозиторий
